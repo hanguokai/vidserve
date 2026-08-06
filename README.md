@@ -1,3 +1,5 @@
+> [中文版](./README-zh.md)
+
 # VidServe
 
 VidServe is a simple, lightweight LAN video server and media player. With zero complex configuration, simply select a video folder on your computer and launch your personal streaming website in seconds.
@@ -54,7 +56,7 @@ VidServe includes an automatic update checker:
 
 ---
 
-## 📄 License & Distribution
+## 📄 License
 
 Copyright © 2026 Guokai Han. All rights reserved.
 
