@@ -1,6 +1,6 @@
 # VidServe
 
-VidServe 是一款极简、轻量的局域网视频服务器与个人媒体中心工具。无需复杂配置，只需选择电脑中的视频文件夹，即可一键搭建专属的个人局域网视频网站。
+VidServe 是一款极简、轻量的局域网视频服务器与播放器工具。无需复杂配置，只需选择电脑中的视频文件夹，即可一键搭建专属的个人局域网视频网站。
 
 ---
 
@@ -23,7 +23,7 @@ VidServe 是一款极简、轻量的局域网视频服务器与个人媒体中�
 3. 从 Launchpad 或 Finder 中启动 **VidServe** 即可使用。
 
 ### Windows
-- **Microsoft Store**：*即将推出*
+- **Microsoft Store**：直接从 [Microsoft Store](https://apps.microsoft.com/detail/9P8MP5C6DHKJ) 下载安装。
 
 ---
 
@@ -33,6 +33,9 @@ VidServe 是一款极简、轻量的局域网视频服务器与个人媒体中�
 VidServe 控制台内置了版本更新检测功能：
 - 当 GitHub Releases 发布新版本时，VidServe 控制台界面顶部会自动弹出绿色的更新提示横幅，并附带直达最新 `.dmg` 下载页面的链接。
 - 更新时，只需下载最新的 `.dmg` 文件覆盖拖入 `Applications` 文件夹即可完成升级，你的历史设置会自动保留。
+
+### Windows
+- Windows 版由 Microsoft Store 应用商店自动检测并自动完成后台更新。
 
 ---
 
