@@ -25,7 +25,7 @@ VidServe is a simple, lightweight LAN video server and media player. With zero c
 3. Launch **VidServe** from Launchpad or Finder.
 
 ### Windows
-- **Microsoft Store**: *Coming Soon!*
+- **Microsoft Store**: Install directly from the [Microsoft Store](https://apps.microsoft.com/detail/9P8MP5C6DHKJ).
 
 ---
 
@@ -35,6 +35,9 @@ VidServe is a simple, lightweight LAN video server and media player. With zero c
 VidServe includes an automatic update checker:
 - When a new version is published on GitHub Releases, a friendly update banner will appear at the top of your VidServe control panel with a link to download the latest `.dmg`.
 - Simply download the new `.dmg` file and drag **VidServe** to your `Applications` folder to overwrite the existing app. All your saved settings will be preserved.
+
+### Windows
+- Updates are managed and installed automatically by the Microsoft Store.
 
 ---
 
